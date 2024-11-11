@@ -1,3 +1,4 @@
+#some practice code for this project
 import pandas as pd
 
 data = {
